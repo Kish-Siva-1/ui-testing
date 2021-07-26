@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.Header_root{
+  background-color: #fafafa;
+  padding-left: 20px;
+  padding-top: 13px;
+  padding-bottom: 1px;
+  display:relative;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.Header_root .Header_button{
+  margin: 0 auto;
+  justify-content: right;
+  align-items: right;
+  float: right;
+  display: inline;
+  padding-right: 140px;
+}

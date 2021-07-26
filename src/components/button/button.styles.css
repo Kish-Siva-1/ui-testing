@@ -1,0 +1,11 @@
+.onboardButton {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    color: #000000;
+    background-color: #f3c344;
+    width: 120px;
+    height: 50px;
+}
